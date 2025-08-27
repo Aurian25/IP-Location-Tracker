@@ -46,7 +46,6 @@ To set up the project locally, follow these steps:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/SartHak-0-Sach/IP-address-tracker_frontend_project)
 - Live Site URL: [Live Site](https://ip-address-tracker-app-project.netlify.app/)
 
 ## My process
@@ -123,18 +122,15 @@ These key points mentioned here will help me grow accountable and consistent tow
 
 ## Author
 
-<b><strong>Sarthak Sachdev</strong></b>
-- Website - [Sarthak Sachdev](https://itsmesarthak.netlify.app/)
-- LeetCode - [@sarthak_sachdev](https://leetcode.com/u/sarthak_sachdev/)
-- Twitter - [@sarthak_sach69](https://www.twitter.com/sarthak_sach69)
+<b><strong>Surya Pratap Singh</strong></b>
+- Website - [Surya Pratap Singh](https://aurian25.github.io/).
+- Linkedin - (https://www.linkedin.com/in/surya-pratap-singh-6b560b229/)
+- GitHub - [Aurian25].(https://github.com/Aurian25)
 
 ## Acknowledgments
 
 I feel like the solutions provided on the website and the continuous doubt solving by industry experts on discord for free is something that is unmatched by anyone else and need to be acknowledged for their efforts in improving me as a developer by suggesting the best practices in your respective tech stack.
 
-## Got feedback for me?
-
-I love receiving feedback! I am always looking to improve my code and take up new innovative ideas to work upon. So if you have anything you'd like to mention, please email 'hi' at saarsaach30[at]gmail[dot]com.
 
 If you liked this project make sure to spread the word and share it with all your friends.
 
