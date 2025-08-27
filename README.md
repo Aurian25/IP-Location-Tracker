@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 
 ### Links
 
-- Live Site URL: [Live Site](https://ip-address-tracker-app-project.netlify.app/)
+- Live Site URL: [Live Site](https://yv9ln5.csb.app/)
 
 ## My process
 
